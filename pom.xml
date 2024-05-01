@@ -65,7 +65,7 @@
             <version>${lombok.version}</version>
         </dependency>
 
-        <!--Replace it wit MySql-->
+       
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
